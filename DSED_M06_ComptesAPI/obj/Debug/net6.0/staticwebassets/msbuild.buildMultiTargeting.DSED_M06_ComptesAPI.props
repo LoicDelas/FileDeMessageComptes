@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DSED_M06_ComptesAPI.props" />
+</Project>

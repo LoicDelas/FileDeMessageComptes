@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BT2KBDh63EkbsLlGs2imoz3Hhn2iM3C3FkZP/ChPjdZzmDQ1R9SqZXxWazWHfRR+9eyvcluzM4yYslUfM9vl4w==",
+  "success": true,
+  "projectFilePath": "d:\\Repos\\reposDSED\\DSED_M06_ComptesREST\\DSED_M06_MessageCompte\\DSED_M06_MessageCompte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loicd\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\loicd\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\loicd\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\loicd\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

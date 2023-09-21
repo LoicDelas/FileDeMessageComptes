@@ -1,0 +1,15 @@
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\bin\Debug\net6.0\DSED_M06_MessageCompte.deps.json
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\bin\Debug\net6.0\DSED_M06_MessageCompte.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\bin\Debug\net6.0\DSED_M06_MessageCompte.pdb
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\bin\Debug\net6.0\DSED_M06_Entites.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\bin\Debug\net6.0\DSED_M06_Entites.pdb
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.csproj.AssemblyReference.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.AssemblyInfoInputs.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.AssemblyInfo.cs
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.csproj.CoreCompileInputs.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.csproj.CopyComplete
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\refint\DSED_M06_MessageCompte.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\DSED_M06_MessageCompte.pdb
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_MessageCompte\obj\Debug\net6.0\ref\DSED_M06_MessageCompte.dll

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-DSED_M06_ComptesAPI-b5d0398d-3f2d-4798-9b2d-0535b6440162</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.14" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.14" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.14" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.18.2" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DSED_M06_CasUtilisation\DSED_M06_CasUtilisation.csproj" />
+    <ProjectReference Include="..\DSED_M06_Entites\DSED_M06_Entites.csproj" />
+    <ProjectReference Include="..\DSED_M06_MessageCompte\DSED_M06_MessageCompte.csproj" />
+    <ProjectReference Include="..\DSED_M06_SQLServerDAL\DSED_M06_SQLServerDAL.csproj" />
+  </ItemGroup>
+
+</Project>

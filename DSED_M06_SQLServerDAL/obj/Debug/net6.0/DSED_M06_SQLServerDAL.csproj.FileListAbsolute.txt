@@ -1,0 +1,15 @@
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\bin\Debug\net6.0\DSED_M06_SQLServerDAL.deps.json
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\bin\Debug\net6.0\DSED_M06_SQLServerDAL.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\bin\Debug\net6.0\DSED_M06_SQLServerDAL.pdb
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\bin\Debug\net6.0\DSED_M06_Entites.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\bin\Debug\net6.0\DSED_M06_Entites.pdb
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.csproj.AssemblyReference.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.AssemblyInfoInputs.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.AssemblyInfo.cs
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.csproj.CoreCompileInputs.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.csproj.CopyComplete
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\refint\DSED_M06_SQLServerDAL.dll
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\DSED_M06_SQLServerDAL.pdb
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_SQLServerDAL\obj\Debug\net6.0\ref\DSED_M06_SQLServerDAL.dll

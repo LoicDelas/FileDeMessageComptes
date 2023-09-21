@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_Entites", "DSED_M06_Entites\DSED_M06_Entites.csproj", "{F1CDCF0E-5CF4-4D4B-B886-17E5A7AEFF85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_CasUtilisation", "DSED_M06_CasUtilisation\DSED_M06_CasUtilisation.csproj", "{12D1CD47-B709-44D6-9549-73435973C050}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_SQLServerDAL", "DSED_M06_SQLServerDAL\DSED_M06_SQLServerDAL.csproj", "{1F232C66-E9FB-4EAC-A5D1-F1F76845DA48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_MessageCompte", "DSED_M06_MessageCompte\DSED_M06_MessageCompte.csproj", "{87615872-3F0E-428B-9D5C-03701CAEFD45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_ComptesAPI", "DSED_M06_ComptesAPI\DSED_M06_ComptesAPI.csproj", "{5EB9B605-6C79-4B76-A78F-834664E635A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_TraitementCreationsModifications", "DSED_M06_TraitementCreationsModifications\DSED_M06_TraitementCreationsModifications.csproj", "{2643370D-CC70-40A8-BC90-CBE1679895A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSED_M06_TraitementLettresMortes", "DSED_M06_TraitementLettresMortes\DSED_M06_TraitementLettresMortes.csproj", "{52EDA114-A794-4F18-8A20-177900C17FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CDCF0E-5CF4-4D4B-B886-17E5A7AEFF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CDCF0E-5CF4-4D4B-B886-17E5A7AEFF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CDCF0E-5CF4-4D4B-B886-17E5A7AEFF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CDCF0E-5CF4-4D4B-B886-17E5A7AEFF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D1CD47-B709-44D6-9549-73435973C050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D1CD47-B709-44D6-9549-73435973C050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D1CD47-B709-44D6-9549-73435973C050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D1CD47-B709-44D6-9549-73435973C050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F232C66-E9FB-4EAC-A5D1-F1F76845DA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F232C66-E9FB-4EAC-A5D1-F1F76845DA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F232C66-E9FB-4EAC-A5D1-F1F76845DA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F232C66-E9FB-4EAC-A5D1-F1F76845DA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87615872-3F0E-428B-9D5C-03701CAEFD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87615872-3F0E-428B-9D5C-03701CAEFD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87615872-3F0E-428B-9D5C-03701CAEFD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87615872-3F0E-428B-9D5C-03701CAEFD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB9B605-6C79-4B76-A78F-834664E635A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB9B605-6C79-4B76-A78F-834664E635A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB9B605-6C79-4B76-A78F-834664E635A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB9B605-6C79-4B76-A78F-834664E635A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2643370D-CC70-40A8-BC90-CBE1679895A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2643370D-CC70-40A8-BC90-CBE1679895A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2643370D-CC70-40A8-BC90-CBE1679895A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2643370D-CC70-40A8-BC90-CBE1679895A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EDA114-A794-4F18-8A20-177900C17FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EDA114-A794-4F18-8A20-177900C17FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EDA114-A794-4F18-8A20-177900C17FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EDA114-A794-4F18-8A20-177900C17FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58464190-CD0F-4431-AAD0-5D9D3B23CE31}
+	EndGlobalSection
+EndGlobal

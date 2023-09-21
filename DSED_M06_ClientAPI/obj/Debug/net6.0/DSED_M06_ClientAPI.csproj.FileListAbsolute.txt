@@ -1,0 +1,5 @@
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_ClientAPI\obj\Debug\net6.0\DSED_M06_ClientAPI.csproj.AssemblyReference.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_ClientAPI\obj\Debug\net6.0\DSED_M06_ClientAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_ClientAPI\obj\Debug\net6.0\DSED_M06_ClientAPI.AssemblyInfoInputs.cache
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_ClientAPI\obj\Debug\net6.0\DSED_M06_ClientAPI.AssemblyInfo.cs
+D:\Repos\Perso\DSED_M06_ComptesREST\DSED_M06_ClientAPI\obj\Debug\net6.0\DSED_M06_ClientAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST.csproj": {}
+  },
+  "projects": {
+    "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_CasUtilisation\\DSED_M06_CasUtilisation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_CasUtilisation\\DSED_M06_CasUtilisation.csproj",
+        "projectName": "DSED_M06_CasUtilisation",
+        "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_CasUtilisation\\DSED_M06_CasUtilisation.csproj",
+        "packagesPath": "C:\\Users\\Loïc\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_CasUtilisation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Loïc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST.csproj",
+        "projectName": "DSED_M06_ComptesREST",
+        "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST.csproj",
+        "packagesPath": "C:\\Users\\Loïc\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_ComptesREST\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Loïc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_CasUtilisation\\DSED_M06_CasUtilisation.csproj": {
+                "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_CasUtilisation\\DSED_M06_CasUtilisation.csproj"
+              },
+              "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj": {
+                "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj"
+              },
+              "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_SQLServerDAL\\DSED_M06_SQLServerDAL.csproj": {
+                "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_SQLServerDAL\\DSED_M06_SQLServerDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj",
+        "projectName": "DSED_M06_Entites",
+        "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj",
+        "packagesPath": "C:\\Users\\Loïc\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Loïc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_SQLServerDAL\\DSED_M06_SQLServerDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_SQLServerDAL\\DSED_M06_SQLServerDAL.csproj",
+        "projectName": "DSED_M06_SQLServerDAL",
+        "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_SQLServerDAL\\DSED_M06_SQLServerDAL.csproj",
+        "packagesPath": "C:\\Users\\Loïc\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_SQLServerDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Loïc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj": {
+                "projectPath": "D:\\Repos\\Perso\\DSED_M06_ComptesREST\\DSED_M06_Entites\\DSED_M06_Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
